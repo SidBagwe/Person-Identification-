@@ -1,14 +1,8 @@
 # About the Project
 
-The advancement in camera technology, high speed
+The advancement in camera technology, high speed connectivity, and availability of huge information over media re-sulted into developing better algorithms for person identification.
 
-connectivity, and availability of huge information over media re-
-sulted into developing better algorithms for person identification.
-
-However, the recognition of a person in low resolution cameras
-like CCTV is still challenging problem. Person identification
-has numerous applications viz. surveillance in crowded area,
-identifying and locating criminals, authentication of evidences in
+However, the recognition of a person in low resolution cameraslike CCTV is still challenging problem. Person identificationhas numerous applications viz. surveillance in crowded area, identifying and locating criminals, authentication of evidences in
 CCTV footage, time attendance in premises, etc. This project
 work aims at identifying a person in low resolution image
 captured by webcam or in various frames of CCTV footage
